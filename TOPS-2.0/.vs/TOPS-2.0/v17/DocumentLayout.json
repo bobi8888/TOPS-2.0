@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\1stBuild\\Desktop\\TOPS-2.0\\TOPS-2.0\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{358CFB1C-C5A9-4ACD-8296-A3BCC36CDC18}|TOPS-2.0\\TOPS-2.0.csproj|c:\\users\\1stbuild\\desktop\\tops-2.0\\tops-2.0\\tops-2.0\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{358CFB1C-C5A9-4ACD-8296-A3BCC36CDC18}|TOPS-2.0\\TOPS-2.0.csproj|solutionrelative:tops-2.0\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{358CFB1C-C5A9-4ACD-8296-A3BCC36CDC18}|TOPS-2.0\\TOPS-2.0.csproj|c:\\users\\1stbuild\\desktop\\tops-2.0\\tops-2.0\\tops-2.0\\ui\\ordersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{358CFB1C-C5A9-4ACD-8296-A3BCC36CDC18}|TOPS-2.0\\TOPS-2.0.csproj|solutionrelative:tops-2.0\\ui\\ordersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{358CFB1C-C5A9-4ACD-8296-A3BCC36CDC18}|TOPS-2.0\\TOPS-2.0.csproj|c:\\users\\1stbuild\\desktop\\tops-2.0\\tops-2.0\\tops-2.0\\ui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{358CFB1C-C5A9-4ACD-8296-A3BCC36CDC18}|TOPS-2.0\\TOPS-2.0.csproj|solutionrelative:tops-2.0\\ui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -63,11 +67,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\1stBuild\\Desktop\\TOPS-2.0\\TOPS-2.0\\TOPS-2.0\\Form1.cs",
-              "RelativeDocumentMoniker": "TOPS-2.0\\Form1.cs",
-              "ToolTip": "C:\\Users\\1stBuild\\Desktop\\TOPS-2.0\\TOPS-2.0\\TOPS-2.0\\Form1.cs [Design]",
-              "RelativeToolTip": "TOPS-2.0\\Form1.cs [Design]",
+              "Title": "OrdersForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\1stBuild\\Desktop\\TOPS-2.0\\TOPS-2.0\\TOPS-2.0\\UI\\OrdersForm.cs",
+              "RelativeDocumentMoniker": "TOPS-2.0\\UI\\OrdersForm.cs",
+              "ToolTip": "C:\\Users\\1stBuild\\Desktop\\TOPS-2.0\\TOPS-2.0\\TOPS-2.0\\UI\\OrdersForm.cs [Design]",
+              "RelativeToolTip": "TOPS-2.0\\UI\\OrdersForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T23:14:56.768Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LogInForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\1stBuild\\Desktop\\TOPS-2.0\\TOPS-2.0\\TOPS-2.0\\UI\\LogInForm.cs",
+              "RelativeDocumentMoniker": "TOPS-2.0\\UI\\LogInForm.cs",
+              "ToolTip": "C:\\Users\\1stBuild\\Desktop\\TOPS-2.0\\TOPS-2.0\\TOPS-2.0\\UI\\LogInForm.cs [Design]",
+              "RelativeToolTip": "TOPS-2.0\\UI\\LogInForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-09T20:15:55.687Z",
               "EditorCaption": " [Design]"

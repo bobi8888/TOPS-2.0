@@ -3,7 +3,6 @@ C:\Users\1stBuild\Desktop\TOPS-2.0\TOPS-2.0\TOPS-2.0\bin\Debug\net8.0-windows\TO
 C:\Users\1stBuild\Desktop\TOPS-2.0\TOPS-2.0\TOPS-2.0\bin\Debug\net8.0-windows\TOPS-2.0.runtimeconfig.json
 C:\Users\1stBuild\Desktop\TOPS-2.0\TOPS-2.0\TOPS-2.0\bin\Debug\net8.0-windows\TOPS-2.0.dll
 C:\Users\1stBuild\Desktop\TOPS-2.0\TOPS-2.0\TOPS-2.0\bin\Debug\net8.0-windows\TOPS-2.0.pdb
-C:\Users\1stBuild\Desktop\TOPS-2.0\TOPS-2.0\TOPS-2.0\obj\Debug\net8.0-windows\TOPS_2._0.Form1.resources
 C:\Users\1stBuild\Desktop\TOPS-2.0\TOPS-2.0\TOPS-2.0\obj\Debug\net8.0-windows\TOPS-2.0.csproj.GenerateResource.cache
 C:\Users\1stBuild\Desktop\TOPS-2.0\TOPS-2.0\TOPS-2.0\obj\Debug\net8.0-windows\TOPS-2.0.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\1stBuild\Desktop\TOPS-2.0\TOPS-2.0\TOPS-2.0\obj\Debug\net8.0-windows\TOPS-2.0.AssemblyInfoInputs.cache
@@ -15,3 +14,4 @@ C:\Users\1stBuild\Desktop\TOPS-2.0\TOPS-2.0\TOPS-2.0\obj\Debug\net8.0-windows\re
 C:\Users\1stBuild\Desktop\TOPS-2.0\TOPS-2.0\TOPS-2.0\obj\Debug\net8.0-windows\TOPS-2.0.pdb
 C:\Users\1stBuild\Desktop\TOPS-2.0\TOPS-2.0\TOPS-2.0\obj\Debug\net8.0-windows\TOPS-2.0.genruntimeconfig.cache
 C:\Users\1stBuild\Desktop\TOPS-2.0\TOPS-2.0\TOPS-2.0\obj\Debug\net8.0-windows\ref\TOPS-2.0.dll
+C:\Users\1stBuild\Desktop\TOPS-2.0\TOPS-2.0\TOPS-2.0\obj\Debug\net8.0-windows\TOPS_2._0.LogInForm.resources
