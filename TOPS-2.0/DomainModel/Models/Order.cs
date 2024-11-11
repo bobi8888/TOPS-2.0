@@ -6,33 +6,33 @@ using System.Threading.Tasks;
 
 namespace DomainModel.Models
 {
-	internal class Order
+	public class Order
 	{
-		int Id
+		public int Id
 		{
 			get; set;
 		}
-		string Sidemark
+		public string Sidemark
 		{
 			get; set;
 		}
-		string OrderId
+		public string OrderId
 		{
 			get; set;
 		}
-		bool InProduction
+		public bool InProduction
 		{
 			get; set;
 		}
-		bool IsShipped
+		public bool IsShipped
 		{
 			get; set;
 		}
-		string CreationDate
+		public string CreationDate
 		{
 			get; set;
 		}
-		string DeliveryAddress
+		public string DeliveryAddress
 		{
 			get; set;
 		}

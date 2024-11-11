@@ -8,32 +8,32 @@ namespace DomainModel.Models
 {
 	public class Customer
 	{
-		int Id {get; set;}
-		string FirstName
+		public int Id {get; set;}
+		public string FirstName
 		{
 			get; set;
 		}
-		string LastName
+		public string LastName
 		{
 			get; set;
 		}
-		string CustomerType
+		public string CustomerType
 		{
 			get; set;
 		}
-		int CompanyId
+		public int CompanyId
 		{
 			get; set;
 		}
-		string PhoneNumber
+		public string PhoneNumber
 		{
 			get; set;
 		}
-		float Discount
+		public float Discount
 		{
 			get; set;
 		}
-		string CreationDate
+		public string CreationDate
 		{
 			get; set;
 		}

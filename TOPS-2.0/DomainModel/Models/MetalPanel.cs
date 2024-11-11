@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DomainModel.Models
 {
-	internal class MetalPanel
+	public class MetalPanel
 	{
 	}
 }
