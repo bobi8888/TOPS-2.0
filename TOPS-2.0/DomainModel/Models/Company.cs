@@ -42,6 +42,5 @@ namespace DomainModel.Models
 			Name = name; 
 			Type = type;
 		}
-
 	}
 }
