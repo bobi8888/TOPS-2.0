@@ -3,43 +3,35 @@
   "WorkspaceRootPath": "C:\\Users\\1stBuild\\Desktop\\TOPS-2.0\\TOPS-2.0\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B1EE6983-F7BC-41DB-8A5A-0A1819972D3C}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\1stbuild\\desktop\\tops-2.0\\tops-2.0\\dataaccesslayer\\dataaccesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B1EE6983-F7BC-41DB-8A5A-0A1819972D3C}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\dataaccesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B1EE6983-F7BC-41DB-8A5A-0A1819972D3C}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\1stbuild\\desktop\\tops-2.0\\tops-2.0\\dataaccesslayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1EE6983-F7BC-41DB-8A5A-0A1819972D3C}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{917BFEB5-9B39-4C8E-A1BF-963DDA13D7E3}|DomainModel\\DomainModel.csproj|c:\\users\\1stbuild\\desktop\\tops-2.0\\tops-2.0\\domainmodel\\models\\metalpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{917BFEB5-9B39-4C8E-A1BF-963DDA13D7E3}|DomainModel\\DomainModel.csproj|solutionrelative:domainmodel\\models\\metalpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{917BFEB5-9B39-4C8E-A1BF-963DDA13D7E3}|DomainModel\\DomainModel.csproj|c:\\users\\1stbuild\\desktop\\tops-2.0\\tops-2.0\\domainmodel\\models\\mdfpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{917BFEB5-9B39-4C8E-A1BF-963DDA13D7E3}|DomainModel\\DomainModel.csproj|solutionrelative:domainmodel\\models\\mdfpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{917BFEB5-9B39-4C8E-A1BF-963DDA13D7E3}|DomainModel\\DomainModel.csproj|c:\\users\\1stbuild\\desktop\\tops-2.0\\tops-2.0\\domainmodel\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{917BFEB5-9B39-4C8E-A1BF-963DDA13D7E3}|DomainModel\\DomainModel.csproj|solutionrelative:domainmodel\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{917BFEB5-9B39-4C8E-A1BF-963DDA13D7E3}|DomainModel\\DomainModel.csproj|c:\\users\\1stbuild\\desktop\\tops-2.0\\tops-2.0\\domainmodel\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{917BFEB5-9B39-4C8E-A1BF-963DDA13D7E3}|DomainModel\\DomainModel.csproj|solutionrelative:domainmodel\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{917BFEB5-9B39-4C8E-A1BF-963DDA13D7E3}|DomainModel\\DomainModel.csproj|c:\\users\\1stbuild\\desktop\\tops-2.0\\tops-2.0\\domainmodel\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{917BFEB5-9B39-4C8E-A1BF-963DDA13D7E3}|DomainModel\\DomainModel.csproj|solutionrelative:domainmodel\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B1EE6983-F7BC-41DB-8A5A-0A1819972D3C}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\1stbuild\\desktop\\tops-2.0\\tops-2.0\\dataaccesslayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1EE6983-F7BC-41DB-8A5A-0A1819972D3C}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{917BFEB5-9B39-4C8E-A1BF-963DDA13D7E3}|DomainModel\\DomainModel.csproj|c:\\users\\1stbuild\\desktop\\tops-2.0\\tops-2.0\\domainmodel\\domainmodel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{917BFEB5-9B39-4C8E-A1BF-963DDA13D7E3}|DomainModel\\DomainModel.csproj|solutionrelative:domainmodel\\domainmodel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{B1EE6983-F7BC-41DB-8A5A-0A1819972D3C}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\1stbuild\\desktop\\tops-2.0\\tops-2.0\\dataaccesslayer\\dataaccesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B1EE6983-F7BC-41DB-8A5A-0A1819972D3C}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\dataaccesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{917BFEB5-9B39-4C8E-A1BF-963DDA13D7E3}|DomainModel\\DomainModel.csproj|c:\\users\\1stbuild\\desktop\\tops-2.0\\tops-2.0\\domainmodel\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{917BFEB5-9B39-4C8E-A1BF-963DDA13D7E3}|DomainModel\\DomainModel.csproj|solutionrelative:domainmodel\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{917BFEB5-9B39-4C8E-A1BF-963DDA13D7E3}|DomainModel\\DomainModel.csproj|c:\\users\\1stbuild\\desktop\\tops-2.0\\tops-2.0\\domainmodel\\domainmodel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{917BFEB5-9B39-4C8E-A1BF-963DDA13D7E3}|DomainModel\\DomainModel.csproj|solutionrelative:domainmodel\\domainmodel.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{358CFB1C-C5A9-4ACD-8296-A3BCC36CDC18}|TOPS-2.0\\TOPS-2.0.csproj|c:\\users\\1stbuild\\desktop\\tops-2.0\\tops-2.0\\tops-2.0\\tops-2.0.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{358CFB1C-C5A9-4ACD-8296-A3BCC36CDC18}|TOPS-2.0\\TOPS-2.0.csproj|solutionrelative:tops-2.0\\tops-2.0.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{358CFB1C-C5A9-4ACD-8296-A3BCC36CDC18}|TOPS-2.0\\TOPS-2.0.csproj|c:\\users\\1stbuild\\desktop\\tops-2.0\\tops-2.0\\tops-2.0\\ui\\ordersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{358CFB1C-C5A9-4ACD-8296-A3BCC36CDC18}|TOPS-2.0\\TOPS-2.0.csproj|C:\\Users\\1stBuild\\Desktop\\TOPS-2.0\\TOPS-2.0\\tops-2.0\\ui\\ordersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{358CFB1C-C5A9-4ACD-8296-A3BCC36CDC18}|TOPS-2.0\\TOPS-2.0.csproj|solutionrelative:tops-2.0\\ui\\ordersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -54,99 +46,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 14,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DataAccessLayer",
-              "DocumentMoniker": "C:\\Users\\1stBuild\\Desktop\\TOPS-2.0\\TOPS-2.0\\DataAccessLayer\\DataAccessLayer.csproj",
-              "RelativeDocumentMoniker": "DataAccessLayer\\DataAccessLayer.csproj",
-              "ToolTip": "C:\\Users\\1stBuild\\Desktop\\TOPS-2.0\\TOPS-2.0\\DataAccessLayer\\DataAccessLayer.csproj",
-              "RelativeToolTip": "DataAccessLayer\\DataAccessLayer.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-10T23:29:15.891Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\1stBuild\\Desktop\\TOPS-2.0\\TOPS-2.0\\DataAccessLayer\\Class1.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\Class1.cs",
-              "ToolTip": "C:\\Users\\1stBuild\\Desktop\\TOPS-2.0\\TOPS-2.0\\DataAccessLayer\\Class1.cs",
-              "RelativeToolTip": "DataAccessLayer\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T23:29:02.014Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MetalPanel.cs",
-              "DocumentMoniker": "C:\\Users\\1stBuild\\Desktop\\TOPS-2.0\\TOPS-2.0\\DomainModel\\Models\\MetalPanel.cs",
-              "RelativeDocumentMoniker": "DomainModel\\Models\\MetalPanel.cs",
-              "ToolTip": "C:\\Users\\1stBuild\\Desktop\\TOPS-2.0\\TOPS-2.0\\DomainModel\\Models\\MetalPanel.cs",
-              "RelativeToolTip": "DomainModel\\Models\\MetalPanel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T23:28:26.91Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MDFPanel.cs",
-              "DocumentMoniker": "C:\\Users\\1stBuild\\Desktop\\TOPS-2.0\\TOPS-2.0\\DomainModel\\Models\\MDFPanel.cs",
-              "RelativeDocumentMoniker": "DomainModel\\Models\\MDFPanel.cs",
-              "ToolTip": "C:\\Users\\1stBuild\\Desktop\\TOPS-2.0\\TOPS-2.0\\DomainModel\\Models\\MDFPanel.cs",
-              "RelativeToolTip": "DomainModel\\Models\\MDFPanel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T23:28:15.771Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\1stBuild\\Desktop\\TOPS-2.0\\TOPS-2.0\\DomainModel\\Models\\Order.cs",
-              "RelativeDocumentMoniker": "DomainModel\\Models\\Order.cs",
-              "ToolTip": "C:\\Users\\1stBuild\\Desktop\\TOPS-2.0\\TOPS-2.0\\DomainModel\\Models\\Order.cs",
-              "RelativeToolTip": "DomainModel\\Models\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T23:27:52.558Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\1stBuild\\Desktop\\TOPS-2.0\\TOPS-2.0\\DomainModel\\Models\\Customer.cs",
-              "RelativeDocumentMoniker": "DomainModel\\Models\\Customer.cs",
-              "ToolTip": "C:\\Users\\1stBuild\\Desktop\\TOPS-2.0\\TOPS-2.0\\DomainModel\\Models\\Customer.cs",
-              "RelativeToolTip": "DomainModel\\Models\\Customer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T23:27:40.462Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DomainModel",
-              "DocumentMoniker": "C:\\Users\\1stBuild\\Desktop\\TOPS-2.0\\TOPS-2.0\\DomainModel\\DomainModel.csproj",
-              "RelativeDocumentMoniker": "DomainModel\\DomainModel.csproj",
-              "ToolTip": "C:\\Users\\1stBuild\\Desktop\\TOPS-2.0\\TOPS-2.0\\DomainModel\\DomainModel.csproj",
-              "RelativeToolTip": "DomainModel\\DomainModel.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-10T23:27:11.627Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -193,44 +94,102 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
+              "Title": "DataAccessLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\1stBuild\\Desktop\\TOPS-2.0\\TOPS-2.0\\DataAccessLayer\\DataAccessLayer.csproj",
+              "RelativeDocumentMoniker": "DataAccessLayer\\DataAccessLayer.csproj",
+              "ToolTip": "C:\\Users\\1stBuild\\Desktop\\TOPS-2.0\\TOPS-2.0\\DataAccessLayer\\DataAccessLayer.csproj",
+              "RelativeToolTip": "DataAccessLayer\\DataAccessLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-10T23:29:15.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\1stBuild\\Desktop\\TOPS-2.0\\TOPS-2.0\\DataAccessLayer\\Class1.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Class1.cs",
+              "ToolTip": "C:\\Users\\1stBuild\\Desktop\\TOPS-2.0\\TOPS-2.0\\DataAccessLayer\\Class1.cs",
+              "RelativeToolTip": "DataAccessLayer\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T23:29:02.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\1stBuild\\Desktop\\TOPS-2.0\\TOPS-2.0\\DomainModel\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "DomainModel\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\1stBuild\\Desktop\\TOPS-2.0\\TOPS-2.0\\DomainModel\\Models\\Order.cs",
+              "RelativeToolTip": "DomainModel\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T23:27:52.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\1stBuild\\Desktop\\TOPS-2.0\\TOPS-2.0\\DomainModel\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "DomainModel\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\1stBuild\\Desktop\\TOPS-2.0\\TOPS-2.0\\DomainModel\\Models\\Customer.cs",
+              "RelativeToolTip": "DomainModel\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T23:27:40.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DomainModel.csproj",
+              "DocumentMoniker": "C:\\Users\\1stBuild\\Desktop\\TOPS-2.0\\TOPS-2.0\\DomainModel\\DomainModel.csproj",
+              "RelativeDocumentMoniker": "DomainModel\\DomainModel.csproj",
+              "ToolTip": "C:\\Users\\1stBuild\\Desktop\\TOPS-2.0\\TOPS-2.0\\DomainModel\\DomainModel.csproj",
+              "RelativeToolTip": "DomainModel\\DomainModel.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-10T23:27:11.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\1stBuild\\Desktop\\TOPS-2.0\\TOPS-2.0\\DomainModel\\Class1.cs",
               "RelativeDocumentMoniker": "DomainModel\\Class1.cs",
               "ToolTip": "C:\\Users\\1stBuild\\Desktop\\TOPS-2.0\\TOPS-2.0\\DomainModel\\Class1.cs",
               "RelativeToolTip": "DomainModel\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T23:27:07.904Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-10T23:27:07.904Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "TOPS-2.0",
               "DocumentMoniker": "C:\\Users\\1stBuild\\Desktop\\TOPS-2.0\\TOPS-2.0\\TOPS-2.0\\TOPS-2.0.csproj",
               "RelativeDocumentMoniker": "TOPS-2.0\\TOPS-2.0.csproj",
               "ToolTip": "C:\\Users\\1stBuild\\Desktop\\TOPS-2.0\\TOPS-2.0\\TOPS-2.0\\TOPS-2.0.csproj",
               "RelativeToolTip": "TOPS-2.0\\TOPS-2.0.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-10T23:24:30.214Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-10T23:24:30.214Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
               "Title": "OrdersForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\1stBuild\\Desktop\\TOPS-2.0\\TOPS-2.0\\TOPS-2.0\\UI\\OrdersForm.cs",
               "RelativeDocumentMoniker": "TOPS-2.0\\UI\\OrdersForm.cs",
               "ToolTip": "C:\\Users\\1stBuild\\Desktop\\TOPS-2.0\\TOPS-2.0\\TOPS-2.0\\UI\\OrdersForm.cs [Design]",
               "RelativeToolTip": "TOPS-2.0\\UI\\OrdersForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T23:14:56.768Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-10T23:14:56.768Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 8,
               "Title": "LogInForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\1stBuild\\Desktop\\TOPS-2.0\\TOPS-2.0\\TOPS-2.0\\UI\\LogInForm.cs",
               "RelativeDocumentMoniker": "TOPS-2.0\\UI\\LogInForm.cs",

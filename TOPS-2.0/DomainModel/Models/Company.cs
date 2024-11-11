@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace DomainModel.Models
 {
-	internal class Order
+	internal class Company
 	{
-		string DeliveryAddress
-		{
-			get; set;
-		}
 	}
 }
