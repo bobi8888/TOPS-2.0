@@ -1,3 +1,10 @@
+using Accessibility;
+using DataAccessLayer.Contracts;
+using Microsoft.Extensions.DependencyInjection;
+using TOPS_2._0.UI;
+using DataAccessLayer.Repositories;
+
+
 namespace TOPS_2._0
 {
 	internal static class Program
@@ -8,10 +15,20 @@ namespace TOPS_2._0
 		[STAThread]
 		static void Main()
 		{
-			// To customize application configuration such as set high DPI settings or default font,
-			// see https://aka.ms/applicationconfiguration.
 			ApplicationConfiguration.Initialize();
-			Application.Run(new LogInForm());
+			ServiceCollection services = ConfigureServices();
+			ServiceProvider serviceProvider = services.BuildServiceProvider();
+			//Application.Run(new LogInForm());
+			var startForm = serviceProvider.GetRequiredService<CustomerForm>;
+			Application.Run(startForm);
+		}
+
+		static ServiceCollection ConfigureServices()
+		{
+			ServiceCollection services = new ServiceCollection();
+			services.AddTransient<CustomersRepository>();
+
+			return services;
 		}
 	}
 }

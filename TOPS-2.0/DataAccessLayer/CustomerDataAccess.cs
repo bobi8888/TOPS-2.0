@@ -1,4 +1,5 @@
 ﻿using Dapper;
+using DataAccessLayer.Contracts;
 using DomainModel.Models;
 using System;
 using System.Collections.Generic;
@@ -11,7 +12,7 @@ using System.Threading.Tasks;
 
 namespace DataAccessLayer
 {
-	public class CustomerDataAccess
+	public class CustomerDataAccess : ICustomersRepository
 	{
 		public void AddCustomer (Customer customer)
 		{
@@ -22,7 +23,7 @@ namespace DataAccessLayer
 
 			using (IDbConnection connection = new SqlConnection(connectionString))
 			{
-				connection.Execute("dbo.InsertCustomer @FirstName, @LastName, @CustomerType", customer);
+				connection.Execute(query, customer);
 			}
 		}
 	}
