@@ -3,36 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\1stBuild\\Desktop\\TOPS-2.0\\TOPS-2.0\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{358CFB1C-C5A9-4ACD-8296-A3BCC36CDC18}|TOPS-2.0\\TOPS-2.0.csproj|c:\\users\\1stbuild\\desktop\\tops-2.0\\tops-2.0\\tops-2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{358CFB1C-C5A9-4ACD-8296-A3BCC36CDC18}|TOPS-2.0\\TOPS-2.0.csproj|solutionrelative:tops-2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{358CFB1C-C5A9-4ACD-8296-A3BCC36CDC18}|TOPS-2.0\\TOPS-2.0.csproj|c:\\users\\1stbuild\\desktop\\tops-2.0\\tops-2.0\\tops-2.0\\tops-2.0.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{358CFB1C-C5A9-4ACD-8296-A3BCC36CDC18}|TOPS-2.0\\TOPS-2.0.csproj|solutionrelative:tops-2.0\\tops-2.0.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{358CFB1C-C5A9-4ACD-8296-A3BCC36CDC18}|TOPS-2.0\\TOPS-2.0.csproj|c:\\users\\1stbuild\\desktop\\tops-2.0\\tops-2.0\\tops-2.0\\ui\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{358CFB1C-C5A9-4ACD-8296-A3BCC36CDC18}|TOPS-2.0\\TOPS-2.0.csproj|solutionrelative:tops-2.0\\ui\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{917BFEB5-9B39-4C8E-A1BF-963DDA13D7E3}|DomainModel\\DomainModel.csproj|c:\\users\\1stbuild\\desktop\\tops-2.0\\tops-2.0\\domainmodel\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{917BFEB5-9B39-4C8E-A1BF-963DDA13D7E3}|DomainModel\\DomainModel.csproj|solutionrelative:domainmodel\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{358CFB1C-C5A9-4ACD-8296-A3BCC36CDC18}|TOPS-2.0\\TOPS-2.0.csproj|c:\\users\\1stbuild\\desktop\\tops-2.0\\tops-2.0\\tops-2.0\\ui\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{358CFB1C-C5A9-4ACD-8296-A3BCC36CDC18}|TOPS-2.0\\TOPS-2.0.csproj|solutionrelative:tops-2.0\\ui\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B1EE6983-F7BC-41DB-8A5A-0A1819972D3C}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\1stbuild\\desktop\\tops-2.0\\tops-2.0\\dataaccesslayer\\customerdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B1EE6983-F7BC-41DB-8A5A-0A1819972D3C}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\customerdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B1EE6983-F7BC-41DB-8A5A-0A1819972D3C}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\1stbuild\\desktop\\tops-2.0\\tops-2.0\\dataaccesslayer\\repositories\\customersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1EE6983-F7BC-41DB-8A5A-0A1819972D3C}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repositories\\customersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B1EE6983-F7BC-41DB-8A5A-0A1819972D3C}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\1stbuild\\desktop\\tops-2.0\\tops-2.0\\dataaccesslayer\\contracts\\icustomersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B1EE6983-F7BC-41DB-8A5A-0A1819972D3C}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\contracts\\icustomersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1EE6983-F7BC-41DB-8A5A-0A1819972D3C}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\1stbuild\\desktop\\tops-2.0\\tops-2.0\\dataaccesslayer\\repositories\\customersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1EE6983-F7BC-41DB-8A5A-0A1819972D3C}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\repositories\\customersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{917BFEB5-9B39-4C8E-A1BF-963DDA13D7E3}|DomainModel\\DomainModel.csproj|c:\\users\\1stbuild\\desktop\\tops-2.0\\tops-2.0\\domainmodel\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{917BFEB5-9B39-4C8E-A1BF-963DDA13D7E3}|DomainModel\\DomainModel.csproj|solutionrelative:domainmodel\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{358CFB1C-C5A9-4ACD-8296-A3BCC36CDC18}|TOPS-2.0\\TOPS-2.0.csproj|c:\\users\\1stbuild\\desktop\\tops-2.0\\tops-2.0\\tops-2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{358CFB1C-C5A9-4ACD-8296-A3BCC36CDC18}|TOPS-2.0\\TOPS-2.0.csproj|solutionrelative:tops-2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{358CFB1C-C5A9-4ACD-8296-A3BCC36CDC18}|TOPS-2.0\\TOPS-2.0.csproj|C:\\Users\\1stBuild\\Desktop\\TOPS-2.0\\TOPS-2.0\\tops-2.0\\ui\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{358CFB1C-C5A9-4ACD-8296-A3BCC36CDC18}|TOPS-2.0\\TOPS-2.0.csproj|solutionrelative:tops-2.0\\ui\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,47 +38,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 15,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TOPS-2.0",
-              "DocumentMoniker": "C:\\Users\\1stBuild\\Desktop\\TOPS-2.0\\TOPS-2.0\\TOPS-2.0\\TOPS-2.0.csproj",
-              "RelativeDocumentMoniker": "TOPS-2.0\\TOPS-2.0.csproj",
-              "ToolTip": "C:\\Users\\1stBuild\\Desktop\\TOPS-2.0\\TOPS-2.0\\TOPS-2.0\\TOPS-2.0.csproj",
-              "RelativeToolTip": "TOPS-2.0\\TOPS-2.0.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-13T19:27:02.339Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\1stBuild\\Desktop\\TOPS-2.0\\TOPS-2.0\\TOPS-2.0\\Program.cs",
-              "RelativeDocumentMoniker": "TOPS-2.0\\Program.cs",
-              "ToolTip": "C:\\Users\\1stBuild\\Desktop\\TOPS-2.0\\TOPS-2.0\\TOPS-2.0\\Program.cs",
-              "RelativeToolTip": "TOPS-2.0\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T19:14:44.615Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CustomersRepository.cs",
-              "DocumentMoniker": "C:\\Users\\1stBuild\\Desktop\\TOPS-2.0\\TOPS-2.0\\DataAccessLayer\\Repositories\\CustomersRepository.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\CustomersRepository.cs",
-              "ToolTip": "C:\\Users\\1stBuild\\Desktop\\TOPS-2.0\\TOPS-2.0\\DataAccessLayer\\Repositories\\CustomersRepository.cs",
-              "RelativeToolTip": "DataAccessLayer\\Repositories\\CustomersRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T19:09:20.83Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -129,46 +86,85 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "ICustomersRepository.cs",
               "DocumentMoniker": "C:\\Users\\1stBuild\\Desktop\\TOPS-2.0\\TOPS-2.0\\DataAccessLayer\\Contracts\\ICustomersRepository.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\Contracts\\ICustomersRepository.cs",
               "ToolTip": "C:\\Users\\1stBuild\\Desktop\\TOPS-2.0\\TOPS-2.0\\DataAccessLayer\\Contracts\\ICustomersRepository.cs",
               "RelativeToolTip": "DataAccessLayer\\Contracts\\ICustomersRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T19:08:52.707Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\1stBuild\\Desktop\\TOPS-2.0\\TOPS-2.0\\DataAccessLayer\\CustomerDataAccess.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\CustomerDataAccess.cs",
+              "ToolTip": "C:\\Users\\1stBuild\\Desktop\\TOPS-2.0\\TOPS-2.0\\DataAccessLayer\\CustomerDataAccess.cs",
+              "RelativeToolTip": "DataAccessLayer\\CustomerDataAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T21:34:56.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\1stBuild\\Desktop\\TOPS-2.0\\TOPS-2.0\\TOPS-2.0\\Program.cs",
+              "RelativeDocumentMoniker": "TOPS-2.0\\Program.cs",
+              "ToolTip": "C:\\Users\\1stBuild\\Desktop\\TOPS-2.0\\TOPS-2.0\\TOPS-2.0\\Program.cs",
+              "RelativeToolTip": "TOPS-2.0\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T19:14:44.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "CustomersRepository.cs",
+              "DocumentMoniker": "C:\\Users\\1stBuild\\Desktop\\TOPS-2.0\\TOPS-2.0\\DataAccessLayer\\Repositories\\CustomersRepository.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\Repositories\\CustomersRepository.cs",
+              "ToolTip": "C:\\Users\\1stBuild\\Desktop\\TOPS-2.0\\TOPS-2.0\\DataAccessLayer\\Repositories\\CustomersRepository.cs",
+              "RelativeToolTip": "DataAccessLayer\\Repositories\\CustomersRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T19:09:20.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "CustomerForm.cs",
               "DocumentMoniker": "C:\\Users\\1stBuild\\Desktop\\TOPS-2.0\\TOPS-2.0\\TOPS-2.0\\UI\\CustomerForm.cs",
               "RelativeDocumentMoniker": "TOPS-2.0\\UI\\CustomerForm.cs",
               "ToolTip": "C:\\Users\\1stBuild\\Desktop\\TOPS-2.0\\TOPS-2.0\\TOPS-2.0\\UI\\CustomerForm.cs",
               "RelativeToolTip": "TOPS-2.0\\UI\\CustomerForm.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAADIAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACUAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T18:26:48.141Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Customer.cs",
               "DocumentMoniker": "C:\\Users\\1stBuild\\Desktop\\TOPS-2.0\\TOPS-2.0\\DomainModel\\Models\\Customer.cs",
               "RelativeDocumentMoniker": "DomainModel\\Models\\Customer.cs",
               "ToolTip": "C:\\Users\\1stBuild\\Desktop\\TOPS-2.0\\TOPS-2.0\\DomainModel\\Models\\Customer.cs",
               "RelativeToolTip": "DomainModel\\Models\\Customer.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAgwC0AAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA9wC0AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T18:56:47.769Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "CustomerForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\1stBuild\\Desktop\\TOPS-2.0\\TOPS-2.0\\TOPS-2.0\\UI\\CustomerForm.cs",
               "RelativeDocumentMoniker": "TOPS-2.0\\UI\\CustomerForm.cs",
@@ -177,19 +173,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T18:19:05.184Z",
               "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CustomerDataAccess.cs",
-              "DocumentMoniker": "C:\\Users\\1stBuild\\Desktop\\TOPS-2.0\\TOPS-2.0\\DataAccessLayer\\CustomerDataAccess.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\CustomerDataAccess.cs",
-              "ToolTip": "C:\\Users\\1stBuild\\Desktop\\TOPS-2.0\\TOPS-2.0\\DataAccessLayer\\CustomerDataAccess.cs",
-              "RelativeToolTip": "DataAccessLayer\\CustomerDataAccess.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T21:34:56.326Z",
-              "EditorCaption": ""
             }
           ]
         }

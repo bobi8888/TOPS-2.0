@@ -1,7 +1,5 @@
-﻿using DataAccessLayer;
-using DataAccessLayer.Contracts;
-using DomainModel.Models;
-using System;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -10,6 +8,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using DataAccessLayer.Contracts;
+using DataAccessLayer.Repositories;
+using DomainModel.Models;
 
 namespace TOPS_2._0.UI
 {
@@ -17,7 +18,6 @@ namespace TOPS_2._0.UI
 	{
 		public List<string> Types = new List<string>();
 		private readonly ICustomersRepository _customersRepository;
-
 
 		public CustomerForm(ICustomersRepository customersRepository)
 		{
@@ -33,7 +33,7 @@ namespace TOPS_2._0.UI
 
 		}
 
-		private void AddCustomerBtn_Click(object sender,EventArgs e)
+		private async void AddCustomerBtn_Click(object sender,EventArgs e)
 		{
 			if (FirstNameTxt.Text != "" && LastNameTxt.Text != "")
 			{

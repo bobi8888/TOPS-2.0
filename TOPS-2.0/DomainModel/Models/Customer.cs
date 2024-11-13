@@ -39,8 +39,10 @@ namespace DomainModel.Models
 		}
 
 		public Customer(){}
-		public Customer(string first,string last,string type)
+		public Customer(string first,string last,string type, int? id = -1)
 		{
+			if (id != -1)
+				Id = (int) id;
 			FirstName = first;
 			LastName = last;
 			CustomerType = type;

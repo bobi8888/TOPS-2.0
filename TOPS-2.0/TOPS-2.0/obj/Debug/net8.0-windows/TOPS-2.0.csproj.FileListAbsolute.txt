@@ -34,3 +34,5 @@ C:\Users\1stBuild\Desktop\TOPS-2.0\TOPS-2.0\TOPS-2.0\bin\Debug\net8.0-windows\Da
 C:\Users\1stBuild\Desktop\TOPS-2.0\TOPS-2.0\TOPS-2.0\bin\Debug\net8.0-windows\DomainModel.pdb
 C:\Users\1stBuild\Desktop\TOPS-2.0\TOPS-2.0\TOPS-2.0\obj\Debug\net8.0-windows\TOPS-2.0.csproj.AssemblyReference.cache
 C:\Users\1stBuild\Desktop\TOPS-2.0\TOPS-2.0\TOPS-2.0\obj\Debug\net8.0-windows\TOPS-2.0.csproj.Up2Date
+C:\Users\1stBuild\Desktop\TOPS-2.0\TOPS-2.0\TOPS-2.0\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\1stBuild\Desktop\TOPS-2.0\TOPS-2.0\TOPS-2.0\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll

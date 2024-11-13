@@ -9,24 +9,25 @@ namespace TOPS_2._0
 {
 	internal static class Program
 	{
-		/// <summary>
-		///  The main entry point for the application.
-		/// </summary>
 		[STAThread]
 		static void Main()
 		{
 			ApplicationConfiguration.Initialize();
+
 			ServiceCollection services = ConfigureServices();
 			ServiceProvider serviceProvider = services.BuildServiceProvider();
-			//Application.Run(new LogInForm());
-			var startForm = serviceProvider.GetRequiredService<CustomerForm>;
+
+			var startForm = serviceProvider.GetRequiredService<CustomerForm>();
 			Application.Run(startForm);
 		}
 
 		static ServiceCollection ConfigureServices()
 		{
 			ServiceCollection services = new ServiceCollection();
-			services.AddTransient<CustomersRepository>();
+
+			services.AddTransient<ICustomersRepository>(_ => new CustomersRepository());
+
+			services.AddTransient<CustomerForm>();
 
 			return services;
 		}

@@ -14,7 +14,7 @@ namespace DataAccessLayer
 {
 	public class CustomerDataAccess : ICustomersRepository
 	{
-		public void AddCustomer (Customer customer)
+		public async Task AddCustomer (Customer customer)
 		{
 			//uses a stored procedure in sql
 			string connectionString = ConfigurationManager.ConnectionStrings ["TOPS2.0ConnectionString"].ConnectionString;

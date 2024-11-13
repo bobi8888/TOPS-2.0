@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TOPS-2.0")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+59bfa9b0835cfb63fe3b10eb3845125900b085a7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e3516ba963202452d1d1e4e4d3a151d5a9fbff63")]
 [assembly: System.Reflection.AssemblyProductAttribute("TOPS-2.0")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TOPS-2.0")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
